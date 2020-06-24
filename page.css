@@ -1,0 +1,57 @@
+#heading{
+	text-align: center;
+	font-size: 80px;
+	margin-top: -15px;
+	color: #92160d;
+
+}
+.Address{
+	text-align: center;
+	margin-top: -50px;
+	font-size: 20px;
+	color: #1b5fbf;
+
+}
+
+
+section{
+	clear: left;
+	margin-top: 40px;
+	font-size: 20px;
+	font-style: 
+}
+#menu {
+	list-style: none;
+}
+*{
+	box-sizing: border-box;
+}
+
+
+#menu li a{
+	text-decoration: none;
+	background-color: #438a5e;
+	text-align: center;
+	border: 1px solid blue;
+	color: black;
+	display: block;
+	width: 341px;
+	float: left;
+
+	
+
+	
+}
+
+body{
+	background-image: url();
+		background-repeat: no-repeat;
+	background-size: cover;
+
+}
+footer #section1 h2{
+	padding-top:  30px;
+}
+#menu{
+	margin-left: -20px;
+}
